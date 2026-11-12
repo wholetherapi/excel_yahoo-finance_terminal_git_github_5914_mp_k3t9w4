@@ -13,4 +13,5 @@ portfolio.
 
 - All portfolio arithmetic is performed on unadjusted, two-decimal US-dollar prices.
 - The positions register is refreshed in place after each approved rebalance.
-- Directive changes and register refreshes are committed to the default branch.
+- Directive changes and register refreshes are committed to the repository's
+  default branch (`master`).
