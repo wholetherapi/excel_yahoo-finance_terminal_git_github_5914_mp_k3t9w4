@@ -8,15 +8,15 @@ position per line.
 ## Current Positions
 
 - MSFT: 2150 shares
-- JNJ: 2900 shares
-- XOM: 6800 shares
-- KO: 9100 shares
+- JNJ: 3400 shares
+- XOM: 6400 shares
+- KO: 8900 shares
 - PG: 5975 shares
-- CAT: 1150 shares
-- VZ: 19800 shares
-- MRK: 6900 shares
-- PEP: 6300 shares
-- CVX: 4300 shares
+- CAT: 1300 shares
+- VZ: 19675 shares
+- MRK: 7125 shares
+- PEP: 6000 shares
+- CVX: 4525 shares
 
 ## Rebalance History
 
